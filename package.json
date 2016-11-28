@@ -1,0 +1,19 @@
+{
+  "name": "react-bp-factory",
+  "version": "0.0.2",
+  "description": "simple boilerplate factory for react components",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "boilerplate",
+    "react",
+    "enzyme",
+    "node",
+    "boiler",
+    "plate"
+  ],
+  "author": "David Daniel <davidedaniel@gmail.com> (http://davidedaniel.github.io)",
+  "license": "MIT"
+}
